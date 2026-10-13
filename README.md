@@ -30,3 +30,8 @@ Arizona, USA · Active since October 2026
 ⭐ Star my repos if you find them useful!
 
 *Educational content only. Not financial advice. Not affiliated with Polymarket — the official documentation is the source of truth.*
+
+
+## 🌐 Research Hub
+
+Full research archive, formulas, and security guides: **[BrainResearchHub](https://brainresearchhub.net)** — independent Polymarket research collective (perps mechanics, SDK, security, access, withdrawals).
